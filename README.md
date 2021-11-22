@@ -2,9 +2,19 @@
 
 ## Problem Statement
 
-## Input Description
+Write a program that displays a traffic sign on the screen. Use stars (*) to represent the sides of your sign, a yield sign would be the word `YIELD` enclosed within a triangle. You must pick a sign other than `YIELD`.
 
-## Sample Input/Output
+## Example Output
+
+``` 
+      *
+     * *
+    *   *
+   *     *
+  * YIELD *
+ *         *
+*************
+```
 
 ## Submission
 
